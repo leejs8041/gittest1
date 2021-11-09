@@ -40,7 +40,7 @@ public class Wrapper_Ex3 {
 		System.out.println("문자열 byte값 변환 : " + b);
 		System.out.println("문자열 int값 변환 : " + i);
 		
-		System.out.println(b);
+		System.out.println(b); 
 
 
 				
